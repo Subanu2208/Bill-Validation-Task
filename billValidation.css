@@ -1,0 +1,22 @@
+.card{border: none;}
+#addRowBtn{
+    
+    border: none;
+    border-radius: 13px;
+
+}
+.body{
+    overflow-x: hidden ;
+}
+tbody{
+    text-align: center;
+}
+#submitBtn{
+   
+    border: none;
+    border-radius: 13px;
+}
+.grandTotal{
+    width: 20%;
+    
+}
